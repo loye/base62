@@ -11,4 +11,3 @@ plugins {
 }
 
 rootProject.name = 'base62'
-include('lib')
